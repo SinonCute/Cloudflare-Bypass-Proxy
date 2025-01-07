@@ -11,7 +11,6 @@ from dataclasses import dataclass
 from orchestrate_full_reverse import OrchestrateJS, ReversedObjects
 #from aqua import CF_Solver
 from wb_base_data import wbBaseData
-from Crypto.Random import get_random_bytes
 
 
 TEST_SITEKEY = '0x4AAAAAAAAjq6WYeRDKmebM'
